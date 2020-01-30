@@ -1,0 +1,4 @@
+<launch>
+<node pkg = "mypkg" name = "led_pub" type = "led_pub.py" output="screen"/>
+<node pkg = "mypkg" name = "led_sub" type = "led_sub.py" output="screen"/>
+</launch>
