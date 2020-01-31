@@ -18,4 +18,4 @@
 
 
 <br>・動画概要
-<br>URLここに
+<br>https://youtu.be/66OIjQD6naA
