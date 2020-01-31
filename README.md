@@ -1,6 +1,6 @@
 # kadai2
 
-<br>概要
+<br>・概要
 <br>本パッケージはLEDでMorse信号を表現する。
 <br>今回はPublisherでLEDの操作とその状態を表示して、Subscriberで受け取ったひらがなを表示する。
 
