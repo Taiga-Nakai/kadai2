@@ -1,21 +1,21 @@
 # kadai2
 
-## 概要
-本パッケージはLEDでMorse信号を表現する。
+<br>概要
+<br>本パッケージはLEDでMorse信号を表現する。
 <br>今回はPublisherでLEDの操作とその状態を表示して、Subscriberで受け取ったひらがなを表示する。
 
-## 操作方法
+<br>・操作方法
 1.起動
 
-$ roslaunch mypkg morse.launch
+<br>$ roslaunch mypkg morse.launch
 
 
 <br>2.値の表示
 
-$ pub: [Short, Long]
-・・・
-$ sub: [NA]
+<br>$ pub: [Short, Long]
+<br>・・・
+<br>$ sub: [NA]
 
 
-## 動画概要
-URLここに
+<br>・動画概要
+<br>URLここに
